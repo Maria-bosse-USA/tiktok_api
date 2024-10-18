@@ -142,3 +142,4 @@ def X_Gorgon0404 ():#line:124
     for O0OOOOOOO00O000O0 in range (0 ,4 ):#line:160
         OO00O0OO0O0O0O0OO .append (int (OO00000OO0OO00OO0 [2 *O0OOOOOOO00O000O0 :2 *O0OOOOOOO00O000O0 +2 ],16 ))#line:161
     return {'xgorgon':XGorgon0404 (OO00O0OO0O0O0O0OO ).main (),'ts':str (int (OO00000OO0OO00OO0 ,16 ))}#line:162
+    Contact telegram https://t.me/mariabosser
